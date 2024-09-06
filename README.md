@@ -3,7 +3,7 @@ Module 1 Homework Assignment: Discovering Medical Codexes within Synthetic Medic
 
 # Steps taken for analysis
 
-I began my analysis by initially loading the synthetic inpatient data from the CMS website into my notebook. I then obtained a set of columns, sample data, and the first few rows of data to better visualize and understand my data set. I went on to identify the medical codexes present in the data set, which included all the icd columns, the drug columns, and hcpcs column.  Furthermore I measured the frequency of the icd codes, drg codes, and hcpcs code. I proceeded to check for missing values in the codex-related columns. Initially I did have missing data, but after fillin in placeholders, the missing data went down to 0 for all columns. My final step included identifying <5 most common ICD/DRG/HCPCS codes. 
+I began my analysis by initially loading the synthetic inpatient data from the CMS website into my notebook. I then obtained a set of columns, sample data, and the first few rows of data to better visualize and understand my data set. I went on to identify the medical codexes present in the data set, which included all the icd columns, the drug columns, and hcpcs column.  Furthermore I measured the frequency of the icd codes, drg codes, and hcpcs code. I proceeded to check for missing values in the codex-related columns. Initially I did have missing data, but after filling in placeholders, the missing data went down to 0 for all columns. My final step included identifying <5 most common ICD/DRG/HCPCS codes. 
 
 # Any challenges you faced and how you overcame them 
 
